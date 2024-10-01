@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ResDiary Widget</title>
+</head>
+<body>
+  <div id="rd-widget-frame" style="max-width: 600px; margin: auto;"></div>
+  <input id="rdwidgeturl" name="rdwidgeturl" value="https://booking.resdiary.com/widget/Standard/Feend/55069?includeJquery=false" type="hidden">
+  <script type="text/javascript" src="https://booking.resdiary.com/bundles/WidgetV2Loader.js"></script>
+</body>
+</html>
